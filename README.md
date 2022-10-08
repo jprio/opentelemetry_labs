@@ -33,6 +33,7 @@ Ref/Tuto :
 * https://lightstep.com/blog/auto-instrumentation-is-magic-using-opentelemetry-python-with-lightstep
 * https://opentelemetry.io/docs/
 * https://lightstep.com/blog/opentelemetry-for-python-the-hard-way
+* https://www.dynatrace.com/news/blog/opentelemetry-demo-application-with-dynatrace/
 
 
 UI : 
