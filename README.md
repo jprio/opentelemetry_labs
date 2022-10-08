@@ -32,6 +32,8 @@ Ref/Tuto :
 * https://docs.honeycomb.io/getting-started/quickstart/
 * https://lightstep.com/blog/auto-instrumentation-is-magic-using-opentelemetry-python-with-lightstep
 * https://opentelemetry.io/docs/
+* https://lightstep.com/blog/opentelemetry-for-python-the-hard-way
+
 
 UI : 
 * https://app.aspecto.io/9b49d590/search?relative=5m&sort=endTimestamp&order=1&page=0
