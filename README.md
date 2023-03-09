@@ -25,6 +25,8 @@ Vendors :
 * Splunk	Yes	Yes	splunk.com/blog/…
 * Sumo Logic	Yes	Yes	help.sumologic.com/
 * Uptrace	Yes	Yes	uptrace.dev
+* [Helios](https://app.gethelios.dev/)
+* 
 
 Ref/Tuto : 
 * https://github.com/aspecto-io/opentelemetry-examples
